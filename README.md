@@ -9,3 +9,5 @@ pip install Flask
 
 Run your Flask app:
 python app.py
+
+Visit http://localhost:5000 in your browser to interact with the simple CRUD interface.
