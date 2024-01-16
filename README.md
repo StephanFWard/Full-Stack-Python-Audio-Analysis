@@ -1,5 +1,5 @@
 # Full-Stack-Python-Audio-Analysis
-This is a full-stack audio analysis application programmed in Python leveraging Flask and the sqlite3 database.
+This Full-Stack Python application allows you to begin to store audio files into a sqlite3 database for further analysis (such as with other library's such as librosa). It utilizes Flask for the front end web view on your local host. The same thing can be done in Java-Thymleaf-Spring framework (although I haven't done it).
 
 Clone the Repository:
 git clone https://github.com/StephanFWard/Full-Stack-Python-Audio-Analysis.git
